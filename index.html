@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+<title>Ujian Online - Dark Elegant</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="login-page" class="page center">
+    <div class="card login-card">
+      <h1>Ujian Online - Kelas D</h1>
+      <input id="student-name" placeholder="Nama Lengkap" autocomplete="off" />
+      <input id="student-nim" placeholder="NIM" autocomplete="off" />
+      <input id="student-class" placeholder="Kelas" autocomplete="off" />
+      <div class="row">
+        <button id="start-btn" class="primary">Mulai Ujian</button>
+      </div>
+      <p class="note">Mode portrait direkomendasikan. Fullscreen & fitur keamanan aktif.</p>
+    </div>
+  </div>
+
+  <div id="exam-page" class="page" style="display:none;">
+    <header class="topbar">
+      <div class="brand">📝 Ujian - Kelas D</div>
+      <div id="timer" class="timer">Waktu: 00:00</div>
+    </header>
+
+    <main class="main">
+      <section class="content">
+        <div id="questions" class="questions"></div>
+      </section>
+
+      <aside class="sidebar">
+        <div class="panel sticky-nav">
+          <h4>Nomor Soal</h4>
+          <div id="question-numbers" class="nav-circle"></div>
+        </div>
+        <div class="panel">
+          <h4>Informasi</h4>
+          <p id="info-student">-</p>
+        </div>
+      </aside>
+    </main>
+
+    <div class="bottom-nav">
+      <button id="prev-btn" class="nav-btn">‹ Sebelumnya</button>
+      <button id="next-btn" class="nav-btn">Selanjutnya ›</button>
+      <button id="submit-btn" class="submit-btn">Kirim Jawaban</button>
+    </div>
+  </div>
+
+  <div id="result-page" class="page center" style="display:none;">
+    <div class="card result-card">
+      <h2>Hasil Ujian</h2>
+      <p id="result-text"></p>
+      <p class="note">Halaman ini terkunci. Terima kasih.</p>
+    </div>
+  </div>
+
+<script>
+window.GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyxqwYcNIqVAjV_KSRO6QiIXMJ2dYdvLehVPAOmAaWKg5l8KhZinhGdrrv1sZEs5ZbZ/exec";
+</script>
+<script src="script.js"></script>
+</body>
+</html>
