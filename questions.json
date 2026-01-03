@@ -1,0 +1,883 @@
+[
+  {
+    "id": 1,
+    "text": "Anak usia 6 tahun dirawat dengan diagnosis epilepsi. Saat perawat masuk ruangan, anak mengalami kejang tonik-klonik generalisata selama ±1 menit. Tindakan prioritas pertama perawat adalah:",
+    "options": [
+      "Memasang oksigen 6 L/menit",
+      "Menahan ekstremitas agar tidak cedera",
+      "Melonggarkan pakaian dan posisikan miring",
+      "Memasang infus dan menyiapkan diazepam"
+    ],
+    "correct": "Melonggarkan pakaian dan posisikan miring"
+  },
+  {
+    "id": 2,
+    "text": "Anak dengan meningitis bakteri menunjukkan tanda kaku kuduk, demam tinggi, dan penurunan kesadaran. Diagnosis keperawatan paling tepat adalah:",
+    "options": [
+      "Gangguan perfusi jaringan serebral",
+      "Risiko defisit nutrisi",
+      "Hipertermia",
+      "Risiko cedera"
+    ],
+    "correct": "Hipertermia"
+  },
+  {
+    "id": 3,
+    "text": "Pada anak dengan ensefalitis, mekanisme utama terjadinya penurunan kesadaran adalah:",
+    "options": [
+      "Hipoksia akibat gangguan respirasi",
+      "Edema serebri dan peningkatan TIK",
+      "Gangguan elektrolit",
+      "Hipoglikemia"
+    ],
+    "correct": "Gangguan elektrolit"
+  },
+  {
+    "id": 4,
+    "text": "Bayi dengan hidrosefalus menunjukkan pembesaran lingkar kepala cepat. Tindakan keperawatan yang harus dihindari adalah:",
+    "options": [
+      "Mengukur lingkar kepala rutin",
+      "Memposisikan kepala lebih tinggi",
+      "Mengangkat bayi dengan menopang kepala",
+      "Menekan ubun-ubun untuk menilai tekanan"
+    ],
+    "correct": "Mengangkat bayi dengan menopang kepala"
+  },
+  {
+    "id": 5,
+    "text": "Tujuan utama pemasangan VP-shunt pada anak hidrosefalus adalah:",
+    "options": [
+      "Mengurangi risiko infeksi",
+      "Mengalirkan cairan serebrospinal berlebih",
+      "Menurunkan suhu tubuh",
+      "Memperbaiki fungsi motorik"
+    ],
+    "correct": "Menurunkan suhu tubuh"
+  },
+  {
+    "id": 6,
+    "text": "Anak epilepsi sering tidak patuh minum obat karena merasa “sudah sembuh”. Intervensi keperawatan paling efektif adalah:",
+    "options": [
+      "Memberi hukuman edukatif",
+      "Edukasi kepada orang tua tentang terapi jangka panjang",
+      "Mengganti obat antikejang",
+      "Menghentikan obat sementara"
+    ],
+    "correct": "Mengganti obat antikejang"
+  },
+  {
+    "id": 7,
+    "text": "Tanda awal peningkatan TIK pada anak adalah:",
+    "options": [
+      "Bradikardia",
+      "Hipotensi",
+      "Perubahan perilaku dan gelisah",
+      "Muntah proyektil berulang"
+    ],
+    "correct": "Perubahan perilaku dan gelisah"
+  },
+  {
+    "id": 8,
+    "text": "Pada anak dengan kejang demam, faktor pemicu utama adalah:",
+    "options": [
+      "Infeksi sistem saraf pusat",
+      "Ketidakseimbangan elektrolit",
+      "Kenaikan suhu tubuh cepat",
+      "Riwayat trauma kepala"
+    ],
+    "correct": "Kenaikan suhu tubuh cepat"
+  },
+  {
+    "id": 9,
+    "text": "Intervensi edukasi orang tua pada anak epilepsi yang benar adalah:",
+    "options": [
+      "Obat boleh dihentikan bila tidak kejang",
+      "Anak dilarang aktivitas fisik",
+      "Catat waktu dan durasi kejang",
+      "Masukkan benda keras ke mulut saat kejang"
+    ],
+    "correct": "Catat waktu dan durasi kejang"
+  },
+  {
+    "id": 10,
+    "text": "Anak meningitis dengan fontanel menonjol, muntah, dan kejang. Prioritas keperawatan adalah:",
+    "options": [
+      "Nutrisi enteral",
+      "Pencegahan cedera",
+      "Manajemen jalan napas",
+      "Edukasi keluarga"
+    ],
+    "correct": "Manajemen jalan napas"
+  },
+  {
+    "id": 11,
+    "text": "Soal menjebak: Pada anak kejang, tindakan yang benar adalah:",
+    "options": [
+      "Menahan lidah dengan sendok",
+      "Menahan ekstremitas kuat",
+      "Memberikan cairan oral",
+      "Melonggarkan pakaian dan posisikan miring"
+    ],
+    "correct": "Memberikan cairan oral"
+  },
+  {
+    "id": 12,
+    "text": "SLKI yang paling sesuai untuk diagnosis “Risiko cedera” pada anak epilepsi adalah:",
+    "options": [
+      "Status nutrisi membaik",
+      "Tingkat kesadaran meningkat",
+      "Tidak terjadi cedera",
+      "Frekuensi kejang meningkat"
+    ],
+    "correct": "Tidak terjadi cedera"
+  },
+  {
+    "id": 13,
+    "text": "Bayi dengan VSD mengalami takipnea dan sulit menyusu. Penyebab utama adalah:",
+    "options": [
+      "Gangguan katup",
+      "Peningkatan aliran darah paru",
+      "Penurunan preload",
+      "Hipoksia perifer"
+    ],
+    "correct": "Penurunan preload"
+  },
+  {
+    "id": 14,
+    "text": "Tanda khas PDA pada auskultasi adalah:",
+    "options": [
+      "Murmur sistolik",
+      "Murmur diastolik",
+      "Murmur kontinyu “mesin”",
+      "Bunyi S3"
+    ],
+    "correct": "Murmur kontinyu “mesin”"
+  },
+  {
+    "id": 15,
+    "text": "Anak TOF jongkok setelah aktivitas karena:",
+    "options": [
+      "Meningkatkan aliran paru",
+      "Menurunkan resistensi sistemik",
+      "Mengurangi shunt kanan–kiri",
+      "Menurunkan tekanan vena"
+    ],
+    "correct": "Mengurangi shunt kanan–kiri"
+  },
+  {
+    "id": 16,
+    "text": "Diagnosis keperawatan prioritas pada anak ASD adalah:",
+    "options": [
+      "Gangguan perfusi jaringan",
+      "Intoleransi aktivitas",
+      "Risiko infeksi",
+      "Defisit nutrisi"
+    ],
+    "correct": "Risiko infeksi"
+  },
+  {
+    "id": 17,
+    "text": "Soal menjebak: Anak dengan PJB tidak dianjurkan:",
+    "options": [
+      "Istirahat cukup",
+      "Nutrisi tinggi kalori",
+      "Aktivitas sesuai toleransi",
+      "Imunisasi rutin tanpa modifikasi"
+    ],
+    "correct": "Aktivitas sesuai toleransi"
+  },
+  {
+    "id": 18,
+    "text": "Tanda gagal jantung pada bayi adalah:",
+    "options": [
+      "Bradikardia",
+      "Sulit menyusu dan berkeringat",
+      "Hipotermia",
+      "Diuresis meningkat"
+    ],
+    "correct": "Hipotermia"
+  },
+  {
+    "id": 19,
+    "text": "Tujuan keperawatan utama PDA adalah:",
+    "options": [
+      "Menurunkan demam",
+      "Meningkatkan saturasi",
+      "Mengurangi beban kerja jantung",
+      "Meningkatkan nafsu makan"
+    ],
+    "correct": "Mengurangi beban kerja jantung"
+  },
+  {
+    "id": 20,
+    "text": "Intervensi nutrisi tepat pada bayi VSD adalah:",
+    "options": [
+      "Menunda ASI",
+      "Durasi lama",
+      "Sedikit tapi sering",
+      "Rendah kalori"
+    ],
+    "correct": "Sedikit tapi sering"
+  },
+  {
+    "id": 21,
+    "text": "Cyanotic spell pada TOF ditandai oleh:",
+    "options": [
+      "Pucat",
+      "Batuk kronis",
+      "Sianosis mendadak dan sesak",
+      "Demam"
+    ],
+    "correct": "Sianosis mendadak dan sesak"
+  },
+  {
+    "id": 22,
+    "text": "Tindakan awal cyanotic spell adalah:",
+    "options": [
+      "Telentang",
+      "Knee-chest position",
+      "Cairan oral",
+      "Kompres hangat"
+    ],
+    "correct": "Cairan oral"
+  },
+  {
+    "id": 23,
+    "text": "Edukasi orang tua PJB, KECUALI:",
+    "options": [
+      "Tanda gagal jantung",
+      "Kepatuhan kontrol",
+      "Pembatasan total aktivitas",
+      "Nutrisi adekuat"
+    ],
+    "correct": "Pembatasan total aktivitas"
+  },
+  {
+    "id": 24,
+    "text": "Evaluasi keberhasilan asuhan adalah:",
+    "options": [
+      "BB naik sesuai usia",
+      "RR meningkat",
+      "Murmur hilang",
+      "Tidak pernah lelah"
+    ],
+    "correct": "Murmur hilang"
+  },
+  {
+    "id": 25,
+    "text": "C. SISTEM DIGESTIF KONGENITAL (No. 25–34)",
+    "options": [
+      "SISTEM DIGESTIF KONGENITAL (No. 25–34)",
+      "Intususepsi",
+      "Hirschsprung disease",
+      "Diare akut",
+      "NEC"
+    ],
+    "correct": "Hirschsprung disease"
+  },
+  {
+    "id": 26,
+    "text": "Mekanisme utama terjadinya konstipasi pada Hirschsprung adalah:",
+    "options": [
+      "Spasme otot polos",
+      "Tidak adanya sel ganglion pada kolon distal",
+      "Produksi mukus berlebih",
+      "Peristaltik berlebihan"
+    ],
+    "correct": "Produksi mukus berlebih"
+  },
+  {
+    "id": 27,
+    "text": "Bayi dengan atresia ani biasanya menunjukkan tanda:",
+    "options": [
+      "Diare cair",
+      "Tidak mekonium dalam 24 jam",
+      "BAB berdarah",
+      "Nyeri epigastrium"
+    ],
+    "correct": "BAB berdarah"
+  },
+  {
+    "id": 28,
+    "text": "Prioritas keperawatan bayi atresia ani praoperasi adalah:",
+    "options": [
+      "Nutrisi oral",
+      "Stimulasi eliminasi",
+      "Menjaga patensi jalan napas",
+      "Latihan refleks"
+    ],
+    "correct": "Menjaga patensi jalan napas"
+  },
+  {
+    "id": 29,
+    "text": "Ikterus pada atresia duktus hepatikus disebabkan oleh:",
+    "options": [
+      "Hemolisis",
+      "Gangguan aliran empedu",
+      "Infeksi neonatal",
+      "Dehidrasi"
+    ],
+    "correct": "Infeksi neonatal"
+  },
+  {
+    "id": 30,
+    "text": "Intervensi utama untuk membantu nutrisi bayi dengan labioskizis adalah:",
+    "options": [
+      "Puasa total",
+      "Botol khusus atau sendok",
+      "NGT jangka panjang",
+      "Cairan IV saja"
+    ],
+    "correct": "NGT jangka panjang"
+  },
+  {
+    "id": 31,
+    "text": "Diagnosis keperawatan paling sering pada bayi labioskizis adalah:",
+    "options": [
+      "Gangguan citra tubuh",
+      "Risiko aspirasi",
+      "Defisit nutrisi",
+      "Risiko infeksi"
+    ],
+    "correct": "Defisit nutrisi"
+  },
+  {
+    "id": 32,
+    "text": "Komplikasi serius pascaoperasi Hirschsprung yang harus diwaspadai adalah:",
+    "options": [
+      "Konstipasi ringan",
+      "Diare sementara",
+      "Enterokolitis",
+      "Perut kembung ringan"
+    ],
+    "correct": "Enterokolitis"
+  },
+  {
+    "id": 33,
+    "text": "Edukasi perawatan stoma yang benar adalah:",
+    "options": [
+      "Warna stoma pucat normal",
+      "Stoma normal berwarna merah muda",
+      "Tidak perlu dibersihkan",
+      "Kantong jarang diganti"
+    ],
+    "correct": "Tidak perlu dibersihkan"
+  },
+  {
+    "id": 34,
+    "text": "Indikator keberhasilan asuhan pada gangguan digestif adalah:",
+    "options": [
+      "Nafsu makan turun",
+      "Tidak ada distensi abdomen",
+      "BAB tidak teratur",
+      "Muntah meningkat"
+    ],
+    "correct": "BAB tidak teratur"
+  },
+  {
+    "id": 35,
+    "text": "Alasan utama anak hipospadia tidak dianjurkan sirkumsisi adalah:",
+    "options": [
+      "Risiko perdarahan",
+      "Preputium digunakan untuk rekonstruksi",
+      "Risiko nyeri",
+      "Gangguan miksi"
+    ],
+    "correct": "Risiko nyeri"
+  },
+  {
+    "id": 36,
+    "text": "Tanda khas Wilms tumor pada anak adalah:",
+    "options": [
+      "Nyeri pinggang hebat",
+      "Massa abdomen tanpa nyeri",
+      "Demam tinggi",
+      "Oliguria"
+    ],
+    "correct": "Demam tinggi"
+  },
+  {
+    "id": 37,
+    "text": "Soal menjebak: Tindakan keperawatan yang harus dihindari pada Wilms tumor adalah:",
+    "options": [
+      "Monitor tekanan darah",
+      "Palpasi abdomen kuat",
+      "Observasi hematuria",
+      "Edukasi keluarga"
+    ],
+    "correct": "Observasi hematuria"
+  },
+  {
+    "id": 38,
+    "text": "Cerebral palsy didefinisikan sebagai:",
+    "options": [
+      "Penyakit progresif otak",
+      "Cedera otak nonprogresif",
+      "Gangguan metabolik",
+      "Infeksi kronik"
+    ],
+    "correct": "Gangguan metabolik"
+  },
+  {
+    "id": 39,
+    "text": "Masalah utama pada anak cerebral palsy adalah:",
+    "options": [
+      "Gangguan kognitif",
+      "Gangguan motorik",
+      "Gangguan nutrisi",
+      "Gangguan eliminasi"
+    ],
+    "correct": "Gangguan nutrisi"
+  },
+  {
+    "id": 40,
+    "text": "Tujuan utama asuhan keperawatan pada CP adalah:",
+    "options": [
+      "Menyembuhkan penyakit",
+      "Mengoptimalkan fungsi anak",
+      "Menghentikan terapi",
+      "Membatasi aktivitas"
+    ],
+    "correct": "Menghentikan terapi"
+  },
+  {
+    "id": 41,
+    "text": "Intervensi penting mencegah kontraktur pada CP adalah:",
+    "options": [
+      "Imobilisasi",
+      "Latihan ROM teratur",
+      "Tirah baring",
+      "Pembatasan gerak"
+    ],
+    "correct": "Tirah baring"
+  },
+  {
+    "id": 42,
+    "text": "Diagnosis keperawatan yang paling tepat pada CP adalah:",
+    "options": [
+      "Nyeri akut",
+      "Hambatan mobilitas fisik",
+      "Risiko infeksi",
+      "Gangguan perfusi"
+    ],
+    "correct": "Risiko infeksi"
+  },
+  {
+    "id": 43,
+    "text": "Evaluasi keberhasilan terapi CP ditandai dengan:",
+    "options": [
+      "Anak pasif",
+      "Tonus meningkat",
+      "Fungsi motorik meningkat",
+      "Tidak bergerak"
+    ],
+    "correct": "Fungsi motorik meningkat"
+  },
+  {
+    "id": 44,
+    "text": "Edukasi utama pada orang tua anak CP adalah:",
+    "options": [
+      "Terapi jangka pendek",
+      "Latihan berkelanjutan di rumah",
+      "Pembatasan aktivitas",
+      "Obat saja cukup"
+    ],
+    "correct": "Pembatasan aktivitas"
+  },
+  {
+    "id": 45,
+    "text": "Prioritas keperawatan pascaoperasi Wilms tumor adalah:",
+    "options": [
+      "Nutrisi segera",
+      "Manajemen nyeri",
+      "Mobilisasi cepat",
+      "Terapi bermain"
+    ],
+    "correct": "Mobilisasi cepat"
+  },
+  {
+    "id": 46,
+    "text": "Komplikasi pascaoperasi ginjal yang harus diwaspadai adalah:",
+    "options": [
+      "Diuresis meningkat",
+      "Hipertensi",
+      "Luka kering",
+      "Nafsu makan baik"
+    ],
+    "correct": "Luka kering"
+  },
+  {
+    "id": 47,
+    "text": "Ciri posisi kaki pada CTEV adalah:",
+    "options": [
+      "Dorsifleksi",
+      "Eversi",
+      "Plantarfleksi dan inversi",
+      "Netral"
+    ],
+    "correct": "Plantarfleksi dan inversi"
+  },
+  {
+    "id": 48,
+    "text": "Penatalaksanaan awal CTEV adalah:",
+    "options": [
+      "Operasi",
+      "Metode Ponseti",
+      "Imobilisasi total",
+      "Fisioterapi saja"
+    ],
+    "correct": "Imobilisasi total"
+  },
+  {
+    "id": 49,
+    "text": "DDH paling sering terjadi pada:",
+    "options": [
+      "Bayi laki-laki",
+      "Bayi prematur",
+      "Bayi perempuan",
+      "Anak sekolah"
+    ],
+    "correct": "Bayi perempuan"
+  },
+  {
+    "id": 50,
+    "text": "Tanda Ortolani positif menunjukkan:",
+    "options": [
+      "Fraktur",
+      "Dislokasi panggul",
+      "Infeksi",
+      "Edema"
+    ],
+    "correct": "Infeksi"
+  },
+  {
+    "id": 51,
+    "text": "Anak Down syndrome paling sering disertai:",
+    "options": [
+      "Asma",
+      "Penyakit jantung bawaan",
+      "Diabetes",
+      "Epilepsi"
+    ],
+    "correct": "Diabetes"
+  },
+  {
+    "id": 52,
+    "text": "Pendekatan terbaik pada anak autisme adalah:",
+    "options": [
+      "Lingkungan tidak terstruktur",
+      "Lingkungan konsisten",
+      "Isolasi sosial",
+      "Hukuman"
+    ],
+    "correct": "Isolasi sosial"
+  },
+  {
+    "id": 53,
+    "text": "Ciri utama ADHD adalah:",
+    "options": [
+      "Halusinasi",
+      "Hiperaktivitas dan impulsif",
+      "Gangguan sensorik",
+      "Depresi"
+    ],
+    "correct": "Gangguan sensorik"
+  },
+  {
+    "id": 54,
+    "text": "Tujuan keperawatan ADHD adalah:",
+    "options": [
+      "Menghentikan aktivitas",
+      "Meningkatkan konsentrasi",
+      "Isolasi",
+      "Menekan emosi"
+    ],
+    "correct": "Isolasi"
+  },
+  {
+    "id": 55,
+    "text": "Fase keperawatan perioperatif meliputi:",
+    "options": [
+      "Pra–intra–post",
+      "Pra–post",
+      "Intra saja",
+      "Pra saja"
+    ],
+    "correct": "Intra saja"
+  },
+  {
+    "id": 56,
+    "text": "Intervensi utama praoperasi anak adalah:",
+    "options": [
+      "Persiapan fisik dan psikologis",
+      "Mobilisasi",
+      "Nutrisi tinggi lemak",
+      "Terapi bermain berat"
+    ],
+    "correct": "Nutrisi tinggi lemak"
+  },
+  {
+    "id": 57,
+    "text": "Prinsip utama keperawatan paliatif anak adalah:",
+    "options": [
+      "Kuratif",
+      "Kualitas hidup",
+      "Isolasi",
+      "Terapi agresif"
+    ],
+    "correct": "Isolasi"
+  },
+  {
+    "id": 58,
+    "text": "Pendekatan paliatif melibatkan:",
+    "options": [
+      "Anak saja",
+      "Anak, keluarga, dan tim",
+      "Dokter saja",
+      "Perawat saja"
+    ],
+    "correct": "Dokter saja"
+  },
+  {
+    "id": 59,
+    "text": "Komunikasi pada anak terminal sebaiknya:",
+    "options": [
+      "Disembunyikan",
+      "Jujur sesuai perkembangan",
+      "Dihindari",
+      "Hanya ke orang tua"
+    ],
+    "correct": "Dihindari"
+  },
+  {
+    "id": 60,
+    "text": "Anak syok kardiogenik menunjukkan:",
+    "options": [
+      "Kulit hangat",
+      "Diuresis meningkat",
+      "Takikardia & perfusi buruk",
+      "Tekanan darah normal"
+    ],
+    "correct": "Takikardia & perfusi buruk"
+  },
+  {
+    "id": 61,
+    "text": "Prioritas penanganan awal syok kardiogenik adalah:",
+    "options": [
+      "Cairan cepat",
+      "Oksigenasi",
+      "Nutrisi",
+      "Mobilisasi"
+    ],
+    "correct": "Nutrisi"
+  },
+  {
+    "id": 62,
+    "text": "Penyebab utama stunting adalah:",
+    "options": [
+      "Genetik",
+      "Gizi kronik tidak adekuat",
+      "Penyakit akut",
+      "Trauma"
+    ],
+    "correct": "Penyakit akut"
+  },
+  {
+    "id": 63,
+    "text": "Indikator stunting adalah:",
+    "options": [
+      "BB/U",
+      "BB/TB",
+      "TB/U",
+      "IMT"
+    ],
+    "correct": "TB/U"
+  },
+  {
+    "id": 64,
+    "text": "Peran utama perawat komunitas pada stunting adalah:",
+    "options": [
+      "Kuratif",
+      "Preventif–promotif",
+      "Rehabilitatif",
+      "Paliatif"
+    ],
+    "correct": "Rehabilitatif"
+  },
+  {
+    "id": 65,
+    "text": "Edukasi gizi utama pada stunting adalah:",
+    "options": [
+      "Karbohidrat saja",
+      "Protein hewani",
+      "Lemak tinggi",
+      "Puasa"
+    ],
+    "correct": "Lemak tinggi"
+  },
+  {
+    "id": 66,
+    "text": "Intervensi nyeri kronik anak terminal adalah:",
+    "options": [
+      "Menghindari analgesik",
+      "Manajemen nyeri komprehensif",
+      "Distraksi saja",
+      "Tirah baring"
+    ],
+    "correct": "Distraksi saja"
+  },
+  {
+    "id": 67,
+    "text": "Prinsip etika paliatif meliputi:",
+    "options": [
+      "Autonomi",
+      "Beneficence",
+      "Nonmaleficence",
+      "Keadilan"
+    ],
+    "correct": "Nonmaleficence"
+  },
+  {
+    "id": 68,
+    "text": "Tanda anak mulai memahami kematian adalah:",
+    "options": [
+      "Menarik diri",
+      "Bertanya tentang kematian",
+      "Agresif",
+      "Menangis terus"
+    ],
+    "correct": "Agresif"
+  },
+  {
+    "id": 69,
+    "text": "Dukungan spiritual terbaik adalah:",
+    "options": [
+      "Pemaksaan ibadah",
+      "Menghormati keyakinan anak",
+      "Menghindari topik spiritual",
+      "Fokus medis"
+    ],
+    "correct": "Menghindari topik spiritual"
+  },
+  {
+    "id": 70,
+    "text": "Prinsip perawatan akhir hayat anak adalah:",
+    "options": [
+      "Resusitasi agresif",
+      "Kenyamanan dan martabat",
+      "Terapi invasif",
+      "Fokus kuratif"
+    ],
+    "correct": "Terapi invasif"
+  },
+  {
+    "id": 71,
+    "text": "Indikator keberhasilan paliatif adalah:",
+    "options": [
+      "Penyakit sembuh",
+      "Nyeri terkontrol",
+      "Anak aktif",
+      "Tidak ada emosi"
+    ],
+    "correct": "Anak aktif"
+  },
+  {
+    "id": 72,
+    "text": "Peran keluarga dalam perawatan anak terminal adalah:",
+    "options": [
+      "Pasif",
+      "Aktif dan suportif",
+      "Menyerahkan sepenuhnya",
+      "Menghindari anak"
+    ],
+    "correct": "Menyerahkan sepenuhnya"
+  },
+  {
+    "id": 73,
+    "text": "Hambatan komunikasi paliatif meliputi:",
+    "options": [
+      "Usia",
+      "Budaya",
+      "Emosi keluarga",
+      "Keterampilan perawat"
+    ],
+    "correct": "Emosi keluarga"
+  },
+  {
+    "id": 74,
+    "text": "Dampak stunting jangka panjang adalah:",
+    "options": [
+      "Prestasi tinggi",
+      "Infeksi berulang",
+      "Pertumbuhan optimal",
+      "Imunitas tinggi"
+    ],
+    "correct": "Pertumbuhan optimal"
+  },
+  {
+    "id": 75,
+    "text": "Periode emas pencegahan stunting adalah:",
+    "options": [
+      "Remaja",
+      "1000 HPK",
+      "Sekolah",
+      "Dewasa"
+    ],
+    "correct": "Sekolah"
+  },
+  {
+    "id": 76,
+    "text": "Respon terapeutik perawat pada anak terminal yang menangis adalah:",
+    "options": [
+      "Menasehati",
+      "Mendiamkan",
+      "Mendampingi dan mendengarkan",
+      "Mengalihkan"
+    ],
+    "correct": "Mendampingi dan mendengarkan"
+  },
+  {
+    "id": 77,
+    "text": "Prinsip bermain pada anak sakit kronis adalah:",
+    "options": [
+      "Dihentikan",
+      "Disesuaikan kondisi",
+      "Dibatasi total",
+      "Dilarang"
+    ],
+    "correct": "Dibatasi total"
+  },
+  {
+    "id": 78,
+    "text": "Tujuan utama keperawatan anak sakit kronis adalah:",
+    "options": [
+      "Penyembuhan",
+      "Adaptasi optimal",
+      "Isolasi",
+      "Kontrol total"
+    ],
+    "correct": "Isolasi"
+  },
+  {
+    "id": 79,
+    "text": "Faktor risiko stunting adalah:",
+    "options": [
+      "ASI eksklusif",
+      "Sanitasi buruk",
+      "Gizi cukup",
+      "Imunisasi lengkap"
+    ],
+    "correct": "Gizi cukup"
+  },
+  {
+    "id": 80,
+    "text": "Prinsip utama keperawatan anak sakit kronis & terminal adalah:",
+    "options": [
+      "Fokus penyakit",
+      "Pendekatan holistik anak & keluarga",
+      "Kuratif",
+      "Isolasi sosial"
+    ],
+    "correct": "Kuratif"
+  }
+]
